@@ -1,0 +1,34 @@
+.text-primary {
+  color: #a166ff !important; }
+
+.text-secondary {
+  color: #e2cc01 !important; }
+
+.text-success {
+  color: #ff00dd !important; }
+
+.text-danger {
+  color: #ec7200 !important; }
+
+.text-warning {
+  color: #b10000 !important; }
+
+.text-info {
+  color: #19bb8a !important; }
+
+.text-light {
+  color: #c4f3ff !important; }
+
+.text-dark {
+  color: #142146 !important; }
+
+.text-muted {
+  color: #438daf !important; }
+
+.text-white {
+  color: #fff !important; }
+
+.bg-dark {
+  background-color: #142146 !important; }
+
+/*# sourceMappingURL=style.css.map */
